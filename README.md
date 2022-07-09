@@ -6,4 +6,4 @@
 
 ## Platform Used
 * Codesandbox
-[Hotstar-Clone-Link](https://codesandbox.io/s/solitary-wildflower-s0vrdy?file=/index.html)
+*[Hotstar-Clone-Link](https://codesandbox.io/s/solitary-wildflower-s0vrdy?file=/index.html)
